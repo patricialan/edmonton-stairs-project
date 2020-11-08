@@ -99,6 +99,7 @@ body {
 .numbertext {
     color: #f2f2f2;
     font-size: 14px;
+    margin: auto;
     padding: 40px;
     text-align: center;
 }
