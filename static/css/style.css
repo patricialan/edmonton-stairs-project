@@ -71,7 +71,7 @@ body {
 .next {
     cursor: pointer;
     position: absolute;
-    top: 5px;
+    top: 140px;
     width: auto;
     padding: 16px;
     color: white;
@@ -99,8 +99,7 @@ body {
 .numbertext {
     color: #f2f2f2;
     font-size: 14px;
-    margin: auto;
-    padding: 45px;
+    padding: 60px;
     text-align: center;
 }
   
