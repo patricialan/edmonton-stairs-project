@@ -12,13 +12,24 @@ body {
 /* Style the Images Used to Trigger the Modal */
 #myImg {
     width: 100%;
-    max-width: 300px;
+    max-width: 200px;
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
   }
   
 #myImg:hover {opacity: 0.7;}
+
+/* Style the Images Used to Trigger the Modal */
+#listImg {
+    height: 100%;
+    max-height: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+#listImg:hover {opacity: 0.7;}
   
 /* The Modal (background) */
 .modal {
