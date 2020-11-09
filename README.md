@@ -1,6 +1,6 @@
-# Edmonton Stairs Project (EPS)
+# Edmonton Stairways
 
-An interactive map of outdoor staircases in Edmonton, Alberta, Canada. (Screenshots are included below.) Visit [https://patricialan.github.io/edmonton-stairs-project/](https://patricialan.github.io/edmonton-stairs-project/).
+An interactive map of outdoor staircases in Edmonton, AB, Canada. (Screenshots are included below.) Visit [https://patricialan.github.io/edmonton-stairs-project/](https://patricialan.github.io/edmonton-stairs-project/).
 
 #### Map
 ![img/screenshot_01.png](img/screenshot_01.png)
